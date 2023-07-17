@@ -5,10 +5,6 @@
 <main class="container">
   <h1>Welcome to your personal tauri app!</h1>
 
-  <p>
-    Click on the Tauri, Vite, and Svelte logos to learn more.
-  </p>
-
   <div class="row">
     <Greet />
   </div>
@@ -16,11 +12,4 @@
 </main>
 
 <style>
-  .logo.vite:hover {
-    filter: drop-shadow(0 0 2em #747bff);
-  }
-
-  .logo.svelte:hover {
-    filter: drop-shadow(0 0 2em #ff3e00);
-  }
 </style>
